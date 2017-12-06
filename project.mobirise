@@ -26,7 +26,8 @@
         "#01111e",
         "#0d0d0d",
         "#000408",
-        "#151515"
+        "#151515",
+        "#080808"
       ]
     },
     "versionFirst": "4.5.0",
@@ -78,7 +79,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#070600"
+              "background": "#080808"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -101,7 +102,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#070600",
+            "bgColor": "#080808",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
