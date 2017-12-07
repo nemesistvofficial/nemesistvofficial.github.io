@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#33201c",
+        "#644a31",
+        "#5e5444",
         "#070600",
         "#282828",
         "#01111e",
-        "#0d0d0d",
-        "#000408",
-        "#151515",
-        "#080808"
+        "#0d0d0d"
       ]
     },
     "versionFirst": "4.5.0",
@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#120b0a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#291a17!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#080808"
+              "background": "#33201c"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -102,7 +102,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#080808",
+            "bgColor": "#33201c",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -133,26 +133,26 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/paladins-1600x961.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/X7SiuQxhAjg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=X7SiuQxhAjg",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
-            "overlayColor": "#000408",
-            "overlayOpacity": "0.6"
+            "overlay": false,
+            "overlayColor": "#5e5444",
+            "overlayOpacity": "0.1"
           },
           "title": "WELCOME TO MY OFFICIAL WEBSITE",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -190,7 +190,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000408",
+            "bgColor": "#33201c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/qELSSAspRDI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
@@ -215,11 +215,11 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "0",
+            "spacing": "3",
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#0d0d0d",
+            "bgColor": "#33201c",
             "showText": false,
             "filter": false,
             "images": [
