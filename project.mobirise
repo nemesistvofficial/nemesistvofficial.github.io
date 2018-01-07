@@ -99,7 +99,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
@@ -176,6 +176,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -195,7 +198,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#121212",
             "overlayOpacity": "0.8"
           },
