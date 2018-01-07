@@ -101,7 +101,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
@@ -183,9 +183,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "38",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/studio-img-900x626.jpg",
             "parallax": true,
@@ -196,8 +196,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#121212",
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -217,8 +217,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
+          "title": "DOBRODOSLI",
+          "text": "&nbsp; &nbsp; &nbsp;WELCOME TO MY OFFICIAL WEBSITE",
           "_tags": [
             "Theme"
           ],
