@@ -141,8 +141,9 @@
               "src": "@PROJECT_PATH@/assets/images/moj-cov-250x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nemesistvofficial.github.io/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
